@@ -1,1 +1,1 @@
-[portfolio](https://eoghan1156.github.io/portfolioweb/index.html)
+[portfolio](https://eoghan1156.github.io/Portfolioweb/index.html)
